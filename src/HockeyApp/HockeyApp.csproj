@@ -68,4 +68,7 @@
     <BundleResource Include="HockeySDKResources.bundle\IconGradient.png" />
     <BundleResource Include="HockeySDKResources.bundle\IconGradient%402x.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ObjcBindingCoreSource Include="Enums.cs" />
+  </ItemGroup>
 </Project>
